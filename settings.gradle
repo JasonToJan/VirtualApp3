@@ -1,5 +1,5 @@
-include ':xposedcompat'
-include ':hooklib'
-include ':annotation'
+//include ':xposedcompat'
+//include ':hooklib'
+//include ':annotation'
 include ':app'
 include ':commonSdk'

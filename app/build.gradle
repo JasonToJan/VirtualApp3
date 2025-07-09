@@ -94,6 +94,8 @@ android {
         exclude 'META-INF/LICENSE'
         exclude 'META-INF/LICENSE.txt'
         exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE.md'
+        exclude 'META-INF/NOTICE.md'
 
         // 解决资源冲突
        // exclude 'META-INF/metadata.jvm.kotlin_module'

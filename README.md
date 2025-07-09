@@ -9,3 +9,7 @@ Telegram : [https://t.me/serven_scorpion](https://t.me/serven_scorpion) <br>
 请大家给我点一下右上角的 ☆ 感谢
 
 https://github.com/JasonToJan/VirtualApp3
+
+
+Hook框架：https://github.com/asLody/SandHook/blob/master/doc/doc.md
+Xposed环境：https://github.com/JasonToJan/SandVXposed
